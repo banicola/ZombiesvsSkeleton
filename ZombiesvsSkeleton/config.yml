@@ -1,0 +1,19 @@
+games:
+  list: []
+  minPlayer: 8
+  maxPlayer: 16
+  start_timer: 30
+  kits:
+    zombie:
+        kit1:
+            name: The devil
+            items:
+            - 276 1
+            - 327 1
+    skeleton:
+        kit1:
+            name: Skull and Bones
+            items:
+            - 261 1
+            - 262 64
+    

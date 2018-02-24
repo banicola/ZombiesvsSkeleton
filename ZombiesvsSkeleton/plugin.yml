@@ -1,0 +1,16 @@
+name: ZombiesvsSkeleton
+main: com.zs.main.Main
+version: 0.2
+description: ZombiesvsSkeleton plugin
+author: clipsy1
+depend: [iDisguise]
+commands:
+    ZombiesvsSkeleton:
+        description: Menu principal du mode ZombiesvsSkeleton
+        usage: /zombiesvsskeleton
+        aliases:
+        - zs
+    y:
+        usage: /y
+    n:
+        usage: /n
